@@ -1,0 +1,1 @@
+ This project reads sales data from an Excel file, generates a pie chart using Python’s Matplotlib, and exports it directly as a PDF. It provides a quick way to turn tabular data into a visual report without manual chart creation.
